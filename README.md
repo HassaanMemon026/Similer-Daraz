@@ -6,7 +6,7 @@ This is my first repository on GitHub! It’s a practice project I created while
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live demo](https://your-github-username.github.io/your-repo-name)
+👉 [Click here to view the live demo]([https://your-github-username.github.io/your-repo-name](https://hassaanmemon026.github.io/Similer-Daraz/))
 
 ---
 
